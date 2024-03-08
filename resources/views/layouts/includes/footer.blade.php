@@ -1,7 +1,6 @@
 <footer class="footer text-sm">
     <div>
-        <a href="/">Bilas</a>.
-        Copyright &copy; {{ date('Y') }}
+        <a href="/"></a>{{ date('Y') }}
     </div>
-    <div class="ms-auto">Bootstrap Admin Template</div>
+    <div class="ms-auto">Bootstrap Template</div>
 </footer>
